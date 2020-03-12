@@ -10,7 +10,7 @@ Enter the code in the designated section:
 		
 //TODO: e.g Graph the position of the robot and the particles at each step 
 ```
-### Modifying
+### My Modification
 
 I have added the steps of the algorithm on different files with main and solution
 
@@ -31,7 +31,7 @@ as described below.
 10. Graphing - RoboND
 
 
-### Compiling the Program
+### Compiling the Program from the original repo
 ```sh
 $ cd /home/workspace/
 $ git clone https://github.com/udacity/RoboND-MCL-Lab
@@ -50,7 +50,7 @@ Wait for the program to iterate `50` times.
 ### Generated Images
 After running the program, `50` images will be generated in the `Images` folder.
 #### Step0
-![alt text](Images/Step0.png)
+![alt text](/Step0.png)
 #### Step49
-![alt text](Images/Step49.png)
+![alt text](/Step49.png)
 
